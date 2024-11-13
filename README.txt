@@ -4,7 +4,7 @@ Esta aplicación (fichero.py) permite descargar y gestionar datos de personajes,
 vehículos del universo de Star Wars utilizando la [API de SWAPI](https://swapi.dev/). 
 Los usuarios pueden buscar información específica a través de un menú interactivo.
 
-Además conseguí realizar una GUI conel fichero prueba.py, con las mismas funcionalidades. 
+Además conseguí realizar una GUI conel fichero conGUI.py, con las mismas funcionalidades. 
 
 ## Funcionalidades
 
